@@ -1,0 +1,40 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+    
+    .contact {
+        color: #aaa;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+        }
+
+        .portfolio {
+            border: none;
+            color: #aaa;
+            padding: 20px 34px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 20px;
+            margin: 4px 2px;
+            cursor: pointer;
+            }
+        
+            .about {
+                border: none;
+                color: #aaa;
+                padding: 20px 34px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 20px;
+                margin: 4px 2px;
+                cursor: pointer;
+                }
+                
